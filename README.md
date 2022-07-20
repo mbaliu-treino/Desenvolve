@@ -1,5 +1,6 @@
 # Desenvolve
-Notas de aulas do Programa Desenvolve na trilha de Dados
+
+Notas de aulas do Programa Desenvolve na trilha de Dados. A seguir segue os repositórios de forma mais organizada:
 
 
 
