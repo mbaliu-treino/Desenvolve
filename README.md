@@ -23,3 +23,7 @@ A seguir segue os repositórios de forma mais organizada:
 
 * [Cross-Validation: validação consistente de modelos](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_ML_Validacao_Cruzada.ipynb)
 
+
+<h2><font color=orange>NLP</font></h2>
+
+* [Linguagem Natural: NLP com análise de sentimento (parte 1)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_NLP_analise_de_sentimento_I.ipynb)
