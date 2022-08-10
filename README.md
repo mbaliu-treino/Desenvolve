@@ -2,10 +2,25 @@
 
 Notas de aulas do Programa Desenvolve na trilha de Dados. A formação é composta dos seguintes temas e carga horária prevista:
 
-- Ciência de dados:
-- Business Intelligence:
-- Soft Skills:
-- Metodologia Ágil:
+<ul>
+<li><b>Ciência de dados: 312 h</B>
+  <ul><font color=grey>
+  <li>Estatística: 26 h
+  <li>EDA com Python: 106 h
+  <li>Machine Learning: 180 h
+  </font></ul>
+<li><b>Business Intelligence: 251 h</B>
+  <ul><font color=grey>
+  <li>Dashboard e DataViz: 50 h
+  <li>Data Warehouse e ETL: 164 h
+  </font></ul>
+<li><b>Soft Skills: 63 h</B>
+<li><b>Metodologia Ágil: 52 h</B>
+  <ul><font color=grey>
+  <li>Kanban
+  <li>Scrum
+  </font></ul>
+</ul>
 
 
 A seguir segue os repositórios de forma mais organizada:
