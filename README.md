@@ -25,7 +25,10 @@ Notas de aulas do Programa Desenvolve na trilha de Dados. A formação é compos
 
 A seguir segue os repositórios de forma mais organizada:
 
-<!---# DATA SCIENCE--->
+# DATA SCIENCE
+## CIÊNCIA DA COMPUTAÇÃO
+
+* [Fundamentos em Python e NumPy](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_PROG_Python_e_Numpy.ipynb)
 
 ## MACHINE LEARNING
 
