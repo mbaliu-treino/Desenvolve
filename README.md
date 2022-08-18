@@ -31,6 +31,10 @@ A seguir seguem os repositórios de forma mais organizada:
 * [Fundamentos em Python e NumPy](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_PROG_Python_e_Numpy.ipynb)
 * [Fundamentos em Pandas - Estruturas de dados e operações para análises](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DataScience_Pandas.ipynb)
 
+## ANÁLISE DE DADOS
+
+* [Fundamentos em Análise de dados com Pandas](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DataScience_Pandas_Tratamento.ipynb)
+
 ## MACHINE LEARNING
 
 
