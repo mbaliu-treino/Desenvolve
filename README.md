@@ -23,7 +23,7 @@ Notas de aulas do Programa Desenvolve na trilha de Dados. A formação é compos
 </ul>
 
 
-A seguir segue os repositórios de forma mais organizada:
+A seguir seguem os repositórios de forma mais organizada:
 
 # DATA SCIENCE
 ## CIÊNCIA DA COMPUTAÇÃO
