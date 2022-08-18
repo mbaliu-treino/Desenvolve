@@ -29,6 +29,7 @@ A seguir segue os repositórios de forma mais organizada:
 ## CIÊNCIA DA COMPUTAÇÃO
 
 * [Fundamentos em Python e NumPy](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_PROG_Python_e_Numpy.ipynb)
+* [Fundamentos em Pandas - Estruturas de dados e operações para análises](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DataScience_Pandas.ipynb)
 
 ## MACHINE LEARNING
 
