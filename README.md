@@ -34,6 +34,9 @@ A seguir seguem os repositórios de forma mais organizada:
 
 ## ANÁLISE DE DADOS
 
+<!--- ESTATÍSTICA --->
+
+<!--- COMPORTAMENTO DOS DADOS --->
 * [Fundamentos em Análise de dados com Pandas](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DataScience_Pandas_Tratamento.ipynb)
 
 ## MACHINE LEARNING
