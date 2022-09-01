@@ -52,7 +52,7 @@ A seguir seguem os repositórios de forma mais organizada:
 
 ## MACHINE LEARNING
 
-* Data Science: Primeiros passos
+* Data Science: Análise e Visualização de dados
 
 
 <!---
@@ -72,6 +72,9 @@ A seguir seguem os repositórios de forma mais organizada:
 
 * [Cross-Validation: validação consistente de modelos](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_ML_Validacao_Cruzada.ipynb)
 
+## <font color=orange>DEEP LEARNING</font></h2>
+
+* [Séries Temporais - Previsões com Keras](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_DeepLearning_Series_Temporais.ipynb)
 
 ## <font color=orange>NLP</font></h2>
 
