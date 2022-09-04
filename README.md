@@ -75,6 +75,7 @@ A seguir seguem os repositórios de forma mais organizada:
 
 * [Fundamentos em Deep Learning - Redes neurais com Keras (camadas, épocas e validação)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_DeepLearning_Keras_I.ipynb)
 * [Fundamentos em Deep Learning - Teorema da Aproximação Universal com Redes Neurais](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_DeepLearning_Teorema_da_Aproxima%C3%A7%C3%A3o_Universal.ipynb)
+* [Fundamentos em Deep Learning - implementação de uma rede neural de regressão com numpy](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_DeepLearning_Rede_Neural_com_Numpy.ipynb)
 * [Séries Temporais - Previsões com Keras](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_DeepLearning_Series_Temporais.ipynb)
 
 ## <font color=orange>NLP</font></h2>
