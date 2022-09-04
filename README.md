@@ -30,13 +30,15 @@ A seguir seguem os repositórios de forma mais organizada:
 
 * [Fundamentos em Python e NumPy](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_PROG_Python_e_Numpy.ipynb)
 * [Fundamentos em Pandas - Estruturas de dados e operações para análises](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DataScience_Pandas.ipynb)
-* [IO - Formatos diferentes de entrada e saída de dados com Pandas](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_DataScience_IO_formatos_de_entrada_e_sa%C3%ADda.ipynb)
+* [IO - Formatos diferentes de entrada e saída de dados com Pandas](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DataScience_IO_formatos_de_entrada_e_sa%C3%ADda.ipynb)
 * Scraping com Python: Coleta de dados na web
 <!--- ETL --->
 * [SQL: construção de Bancos de Dados no BigQuery](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_SQL_Manipula%C3%A7%C3%B5es.ipynb)
 * [SQL: funções do BigQuery](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_SQL_Fun%C3%A7%C3%B5es.ipynb)
 
 ## ANÁLISE DE DADOS
+
+* [Data Science: Fundamentos da Análise e Visualização de dados](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DataScience_analise_e_visualiza%C3%A7%C3%A3o_de_dados.ipynb)
 
 <!--- ESTATÍSTICA --->
 
@@ -51,9 +53,6 @@ A seguir seguem os repositórios de forma mais organizada:
 * Data Visualization: Explorando com Rawgraphs
 
 ## MACHINE LEARNING
-
-* Data Science: Análise e Visualização de dados
-
 
 <!---
 <h4><font color=orange>ENTENDIMENTO DOS DADOS (EDA)</font></h3>
