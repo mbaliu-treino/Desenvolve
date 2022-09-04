@@ -73,6 +73,7 @@ A seguir seguem os repositórios de forma mais organizada:
 
 ## <font color=orange>DEEP LEARNING</font></h2>
 
+* [Fundamentos em Deep Learning - Redes neurais com Keras (camadas, épocas e validação)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_DeepLearning_Keras_I.ipynb)
 * [Séries Temporais - Previsões com Keras](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_DeepLearning_Series_Temporais.ipynb)
 
 ## <font color=orange>NLP</font></h2>
