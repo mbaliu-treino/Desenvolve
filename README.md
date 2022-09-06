@@ -69,6 +69,7 @@ A seguir seguem os repositórios de forma mais organizada:
 
 <h3><font color=orange>VALIDAÇÃO</font></h3>
 
+* [Overfitting: conceito e identificação](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_ML_Overfit.ipynb)
 * [Cross-Validation: validação consistente de modelos](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_ML_Validacao_Cruzada.ipynb)
 
 ## <font color=orange>DEEP LEARNING</font></h2>
