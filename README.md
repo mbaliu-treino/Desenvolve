@@ -86,4 +86,5 @@ Processamento de Linguagem Natural (PLN) ou, do inglês, Natural Language Proces
 
 * [Linguagem Natural: NLP com análise de sentimento (parte 1)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_NLP_analise_de_sentimento_I.ipynb)
 * [Linguagem Natural: Otimização de PLN (parte 2)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_NLP_analise_de_sentimento_II.ipynb)
-* [NLP: interpretação com o contexto das palavras (Word Embedding - Word2Vec - CBOW e Skip Gram)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_NLP_Word2Vec_CBOW_e_Skipgram.ipynb)
+* [NLP: interpretação com o contexto das palavras (introdução em Word Embedding - Word2Vec - CBOW e Skip Gram)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_NLP_Word2Vec_CBOW_e_Skipgram.ipynb)
+* [NLP: construção de um modelo Word2Vec (CBOW e Skip-Gram) - treinamento de modelo com vocabulário próprio](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_NLP_Word2Vec_Treinamento_de_modelo.ipynb)
