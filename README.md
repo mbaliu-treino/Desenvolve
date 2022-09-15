@@ -28,6 +28,7 @@ A seguir seguem os repositórios de forma mais organizada:
 # DATA SCIENCE
 ## COMPUTAÇÃO
 
+* [Entendo a virtualização de Containers com Docker](https://github.com/mbaliu-treino/Desenvolve/blob/main/ENV_Docker.ipynb)
 * [Fundamentos em Python e NumPy](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_PROG_Python_e_Numpy.ipynb)
 * [Fundamentos em Pandas - Estruturas de dados e operações para análises](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DataScience_Pandas.ipynb)
 * [IO - Formatos diferentes de entrada e saída de dados com Pandas](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DataScience_IO_formatos_de_entrada_e_sa%C3%ADda.ipynb)
