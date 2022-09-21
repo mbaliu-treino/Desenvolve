@@ -53,6 +53,7 @@ A seguir seguem os repositórios de forma mais organizada:
 * Data Visualization: criação de gráficos com o Matplotlib
 * Data Visualization: Explorando com Seaborn
 * Data Visualization: Explorando com Rawgraphs
+* [Data Visualization: Explorando o Dash - visualizações interativas](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_DV_Dash.ipynb)
 
 ## MACHINE LEARNING
 
