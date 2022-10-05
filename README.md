@@ -91,3 +91,9 @@ Processamento de Linguagem Natural (PLN) ou, do inglês, Natural Language Proces
 * [Linguagem Natural: Otimização de PLN (parte 2)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_NLP_analise_de_sentimento_II.ipynb)
 * [NLP: interpretação com o contexto das palavras (introdução em Word Embedding - Word2Vec - CBOW e Skip Gram)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_NLP_Word2Vec_CBOW_e_Skipgram.ipynb)
 * [NLP: construção de um modelo Word2Vec (CBOW e Skip-Gram) - treinamento de modelo com vocabulário próprio](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_NLP_Word2Vec_Treinamento_de_modelo.ipynb)
+
+## <font color=orange>VISÃO COMPUTACIONAL</font></h2>
+
+A Visão Computacional é uma área de estudo da inteligência artificial destinada que as imagens consigam compreender imagens ou vídeos, possibilitando a identificação de objetos, a descrição da imagem e de seus objetos, atribuição de tags pertinentes, a segmentação etc. Costumam realizar a aprendizagem através de Deep Learning e Redes Neurais Convolucionais.
+
+* [Aplicação da Visão Computacional para caracterização de imagens (API do Twitter e MS Azure CV](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_VC_Reconhecimento_de_Imagens_AzureCV_e_Twitter.ipynb)
