@@ -26,6 +26,9 @@ Notas de aulas do Programa Desenvolve na trilha de Dados. A formação é compos
 A seguir seguem os repositórios de forma mais organizada:
 
 # DATA SCIENCE
+
+O que é Data Science?
+
 ## COMPUTAÇÃO
 
 * [Entendo a virtualização de Containers com Docker](https://github.com/mbaliu-treino/Desenvolve/blob/main/ENV_Docker.ipynb)
@@ -56,6 +59,9 @@ A seguir seguem os repositórios de forma mais organizada:
 * [Data Visualization: Explorando o Dash - visualizações interativas](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_DV_Dash.ipynb)
 
 ## MACHINE LEARNING
+
+Machine Learning é o termo usado para a capacidade de um equipamento de usar dados passados para realizar análises preditivas através da identificação de padrões nos dados.
+Um modelo de ML é um algorítmo, já treinado com dados, preparado para realizar predições para futuros eventos/registros. A qualidade do modelo é a resultado do conjunto de: da qualidade dos dados usados para treinamento, das transformações dos dados e da estratégia de aprendizagem estatística. As principais etapas são: entedimento dos dados, pré-processamento/tratamento, construção do modelo, validação do modelo e deploy (disponibilização).
 
 <!---
 <h4><font color=orange>ENTENDIMENTO DOS DADOS (EDA)</font></h3>
