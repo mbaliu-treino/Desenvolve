@@ -23,13 +23,15 @@ Notas de aulas do Programa Desenvolve na trilha de Dados. A formação é compos
 </ul>
 
 
-A seguir seguem os repositórios de forma mais organizada:
+A seguir seguem os repositórios do portfólio organizados por temas:
 
 # DATA SCIENCE
 
-O que é Data Science?
+O que é Data Science? É o conjunto de metodologias e processos para extração de informações dos dados, abrangendo todas as etapas de limpeza dos dados, exploração, formulação de modelos. É comum compreender este campo de estudo como a intersecção dos campos da estatística, da ciência da computação e do conhecimento do negócio.
 
 ## COMPUTAÇÃO
+
+É o campo de estudo de técnicas, metodologias e instrumentos de aplicação da tecnologia na informatização dos processos e processamento de dados baseados na computador. Aqui são usadas técnicas de estruturas dados dentro dos computadores (como os Bancos de Dados ou estruturas no Python, como os dicionários), ferramentas para operacionalizá-los (as linguagens de programação) e de formas de comunicação entre máquinas (os acessos através APIs).
 
 * [Entendo a virtualização de Containers com Docker](https://github.com/mbaliu-treino/Desenvolve/blob/main/ENV_Docker.ipynb)
 * [Fundamentos em Python e NumPy](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_PROG_Python_e_Numpy.ipynb)
@@ -42,6 +44,8 @@ O que é Data Science?
 * [SQL: funções do BigQuery](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_SQL_Fun%C3%A7%C3%B5es.ipynb)
 
 ## ANÁLISE DE DADOS
+
+A análise de dados objetiva obter informações e até mesmo conhecimento a partir dos dados brutos. Ela é composta por diversas ferramentas e estratégias que auxiliam a obter *insights*/informações do comportamento para auxiliar a tomada de decisões, ou seja, é a base da estratégia de negócio *data-driven*. Basicamente fazem parte deste campo a análise exploratória dos dados, análise estatística e visualização.
 
 * [Data Science: Fundamentos da Análise e Visualização de dados](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DataScience_analise_e_visualiza%C3%A7%C3%A3o_de_dados.ipynb)
 
