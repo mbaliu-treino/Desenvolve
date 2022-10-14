@@ -107,3 +107,4 @@ Processamento de Linguagem Natural (PLN) ou, do inglês, Natural Language Proces
 A Visão Computacional é uma área de estudo da inteligência artificial destinada que as imagens consigam compreender imagens ou vídeos, possibilitando a identificação de objetos, a descrição da imagem e de seus objetos, atribuição de tags pertinentes, a segmentação etc. Costumam realizar a aprendizagem através de Deep Learning e Redes Neurais Convolucionais.
 
 * [Aplicação da Visão Computacional para caracterização de imagens (API do Twitter e MS Azure CV](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_VC_Reconhecimento_de_Imagens_AzureCV_e_Twitter.ipynb)
+* [Visão computacionala para análise e classificação de faces: OpenCV](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_VC_Classificacao_de_faces.ipynb)
