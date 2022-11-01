@@ -91,7 +91,7 @@ Um modelo de ML é um algorítmo, já treinado com dados, preparado para realiza
 
 <h3><font color=orange>APLICAÇÕES E SOLUÇÕES</font></h3>
 
-[Sistema de Recomendação: eloboração de algorítmo de KNN para recomendação baseado em filtragem colaborativa](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_Sistema_de_Recomendacao_KNN.ipynb)
+* [Sistema de Recomendação: eloboração de algorítmo de KNN para recomendação baseada em filtragem colaborativa](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_Sistema_de_Recomendacao_KNN.ipynb)
 
 
 ## <font color=orange>DEEP LEARNING</font></h2>
