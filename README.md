@@ -29,6 +29,7 @@ A seguir seguem os repositórios do portfólio organizados por temas:
 
 O que é Data Science? É o conjunto de metodologias e processos para extração de informações dos dados, abrangendo todas as etapas de limpeza dos dados, exploração, formulação de modelos. É comum compreender este campo de estudo como a intersecção dos campos da estatística, da ciência da computação e do conhecimento do negócio.
 
+
 ## COMPUTAÇÃO
 
 É o campo de estudo de técnicas, metodologias e instrumentos de aplicação da tecnologia na informatização dos processos e processamento de dados baseados na computador. Aqui são usadas técnicas de estruturas dados dentro dos computadores (como os Bancos de Dados ou estruturas no Python, como os dicionários), ferramentas para operacionalizá-los (as linguagens de programação) e de formas de comunicação entre máquinas (os acessos através APIs).
@@ -43,6 +44,7 @@ O que é Data Science? É o conjunto de metodologias e processos para extração
 * [SQL: construção de Bancos de Dados no BigQuery](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_SQL_Manipula%C3%A7%C3%B5es.ipynb)
 * [SQL: funções do BigQuery](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_SQL_Fun%C3%A7%C3%B5es.ipynb)
 
+
 ## ANÁLISE DE DADOS
 
 A análise de dados objetiva obter informações e até mesmo conhecimento a partir dos dados brutos. Ela é composta por diversas ferramentas e estratégias que auxiliam a obter *insights*/informações do comportamento para auxiliar a tomada de decisões, ou seja, é a base da estratégia de negócio *data-driven*. Basicamente fazem parte deste campo a análise exploratória dos dados, análise estatística e visualização.
@@ -55,12 +57,14 @@ A análise de dados objetiva obter informações e até mesmo conhecimento a par
 * [Fundamentos em Análise de dados com Pandas](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DataScience_Pandas_Tratamento.ipynb)
 * Introdução à análise de series temporais
 
+
 <!--- DATA VIZ --->
 * Data Visualization: visualização no Google Sheet
 * Data Visualization: criação de gráficos com o Matplotlib
 * Data Visualization: Explorando com Seaborn
 * Data Visualization: Explorando com Rawgraphs
 * [Data Visualization: Explorando o Dash - visualizações interativas](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_DV_Dash.ipynb)
+
 
 ## MACHINE LEARNING
 
@@ -85,6 +89,11 @@ Um modelo de ML é um algorítmo, já treinado com dados, preparado para realiza
 * [Overfitting: conceito e identificação](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_ML_Overfit.ipynb)
 * [Cross-Validation: validação consistente de modelos](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_ML_Validacao_Cruzada.ipynb)
 
+<h3><font color=orange>APLICAÇÕES E SOLUÇÕES</font></h3>
+
+[Sistema de Recomendação: eloboração de algorítmo de KNN para recomendação baseado em filtragem colaborativa](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_Sistema_de_Recomendacao_KNN.ipynb)
+
+
 ## <font color=orange>DEEP LEARNING</font></h2>
 
 * [Fundamentos em Deep Learning - Redes neurais com Keras (camadas, épocas e validação)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_DeepLearning_Keras_I.ipynb)
@@ -92,6 +101,7 @@ Um modelo de ML é um algorítmo, já treinado com dados, preparado para realiza
 * [Fundamentos em Deep Learning - Teorema da Aproximação Universal com Redes Neurais](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_DeepLearning_Teorema_da_Aproxima%C3%A7%C3%A3o_Universal.ipynb)
 * [Fundamentos em Deep Learning - implementação de uma rede neural de regressão com numpy](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_DeepLearning_Rede_Neural_com_Numpy.ipynb)
 * [Séries Temporais - Previsões com Keras](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_DeepLearning_Series_Temporais.ipynb)
+
 
 ## <font color=orange>NLP</font></h2>
 
@@ -101,6 +111,7 @@ Processamento de Linguagem Natural (PLN) ou, do inglês, Natural Language Proces
 * [Linguagem Natural: Otimização de PLN (parte 2)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_NLP_analise_de_sentimento_II.ipynb)
 * [NLP: interpretação com o contexto das palavras (introdução em Word Embedding - Word2Vec - CBOW e Skip Gram)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_NLP_Word2Vec_CBOW_e_Skipgram.ipynb)
 * [NLP: construção de um modelo Word2Vec (CBOW e Skip-Gram) - treinamento de modelo com vocabulário próprio](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_NLP_Word2Vec_Treinamento_de_modelo.ipynb)
+
 
 ## <font color=orange>VISÃO COMPUTACIONAL</font></h2>
 
