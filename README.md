@@ -43,6 +43,7 @@ O que é Data Science? É o conjunto de metodologias e processos para extração
 <!--- ETL --->
 * [SQL: construção de Bancos de Dados no BigQuery](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_SQL_Manipula%C3%A7%C3%B5es.ipynb)
 * [SQL: funções do BigQuery](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_SQL_Fun%C3%A7%C3%B5es.ipynb)
+* [Estruturação de um Data Warehouse no Google BigQuery a partir do MySQL](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_SQL_Etapas_de_um_Projeto_Data_Warehouse_e_Dashboard.ipynb)
 
 
 ## ANÁLISE DE DADOS
