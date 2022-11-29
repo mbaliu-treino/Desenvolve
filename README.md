@@ -120,3 +120,10 @@ A Visão Computacional é uma área de estudo da inteligência artificial destin
 
 * [Aplicação da Visão Computacional para caracterização de imagens (API do Twitter e MS Azure CV](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_VC_Reconhecimento_de_Imagens_AzureCV_e_Twitter.ipynb)
 * [Visão computacionala para análise e classificação de faces: OpenCV](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_VC_Classificacao_de_faces.ipynb)
+
+
+# METODOLOGIA ÁGIL
+
+O método Ágil é uma metodologia de gestão de projetos que surge como uma alternativa método clássico Waterfall.
+
+* [Scrum: Manifesto Ágil, iniciação, planejamento, execução, revisão, retrospectiva e encerramento de projetos com Agile](https://docs.google.com/document/d/1tk6kFtA6e541CE8vsxKpE_PiDtGx0nSyj1iSPYpqP0I/edit?usp=sharing)
