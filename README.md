@@ -53,7 +53,6 @@ A análise de dados objetiva obter informações e até mesmo conhecimento a par
 
 * [Data Science: Fundamentos da Análise e Visualização de dados](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DataScience_analise_e_visualiza%C3%A7%C3%A3o_de_dados.ipynb)
 
-<!--- ESTATÍSTICA --->
 
 <!--- COMPORTAMENTO DOS DADOS --->
 * [Fundamentos em Análise de dados com Pandas](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DataScience_Pandas_Tratamento.ipynb)
@@ -67,6 +66,14 @@ A análise de dados objetiva obter informações e até mesmo conhecimento a par
 * Data Visualization: Explorando com Rawgraphs
 * [Data Visualization: Explorando o Dash - visualizações interativas](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_DV_Dash.ipynb)
 
+### ESTATÍSTICA
+* Fundamentos de estatística: frequências e medidas
+* Fundamentos de estatística: probabilidade e amostragem
+* [Testes de Hipótese: os principais testes paramétricos e não-paramétricos](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_Estat%C3%ADstica_3_Testes_de_Hipoteses.ipynb)
+<!--- * [Testes estatísticos no Python] --->
+<!--- * [Correlação e Regressão no Python] --->
+* Análise de Experimentos: testes, mapas de cores e análise de dados
+
 
 ## MACHINE LEARNING
 
@@ -76,12 +83,20 @@ Um modelo de ML é um algorítmo, já treinado com dados, preparado para realiza
 <!---
 <h4><font color=orange>ENTENDIMENTO DOS DADOS (EDA)</font></h3>
 <h4><font color=orange>PRE-PROCESSAMENTO - TRANSFORMAÇÕES</font></h3>
+--->
 
 <h3><font color=orange>MODELOS DE MACHINE LEARNING</font></h3>
 
-<h4><font color=orange>CLASSIFICAÇÃO</font></h3>
-<h4><font color=orange>REGRESSÃO</font></h3>
+<!---
+<h4><font color=orange>CLASSIFICAÇÃO</font></h4>
+--->
 
+<h4><font color=orange>REGRESSÃO</font></h4>
+
+* Regressão Linear: testando relações e prevendo resultados (modelo preditivo)
+* Regressão Linear: técnicas avançadas de modelagem (transformações)
+
+<!---
 <h4><font color=orange>DEPLOY</font></h3>
 --->
 
