@@ -71,7 +71,7 @@ A análise de dados objetiva obter informações e até mesmo conhecimento a par
 * Fundamentos de estatística: probabilidade e amostragem
 * [Testes de Hipótese: os principais testes paramétricos e não-paramétricos](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_Estat%C3%ADstica_3_Testes_de_Hipoteses.ipynb)
 <!--- * [Testes estatísticos no Python] --->
-<!--- * [Correlação e Regressão no Python] --->
+* [Fundamentos da Correlação e Regressão (StatsModels e SciPy)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEANR_C_Estat%C3%ADstica_4_Correlacao_e_Regressao.ipynb)
 * Análise de Experimentos: testes, mapas de cores e análise de dados
 
 
