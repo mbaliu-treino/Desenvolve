@@ -98,9 +98,12 @@ Um modelo de ML é um algorítmo, já treinado com dados, preparado para realiza
 * Regressão Linear: testando relações e prevendo resultados (modelo preditivo)
 * Regressão Linear: técnicas avançadas de modelagem (transformações)
 
-<!---
+
 <h4><font color=orange>DEPLOY</font></h3>
---->
+
+A etapa de deploy é o momento de transformação do modelo de desenvolvimento para o modelo de operação. Então o foco deixa de ser a exploração invetigativa e passa a ser a disponibilização do modelo por outros usuários. Este campo, pela relação com a cultura DevOps, chama-se de MLOps.
+
+* [MLOps: Machine Learning e APIs - contrução de uma API para acesso ao modelo](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_MLOps_Machine_Learning_e_APIs.ipynb)
 
 
 <h3><font color=orange>VALIDAÇÃO</font></h3>
