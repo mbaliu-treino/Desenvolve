@@ -104,6 +104,7 @@ Um modelo de ML é um algorítmo, já treinado com dados, preparado para realiza
 A etapa de deploy é o momento de transformação do modelo de desenvolvimento para o modelo de operação. Então o foco deixa de ser a exploração invetigativa e passa a ser a disponibilização do modelo por outros usuários. Este campo, pela relação com a cultura DevOps, chama-se de MLOps.
 
 * [MLOps: Machine Learning e APIs - contrução de uma API para acesso ao modelo](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_MLOps_Machine_Learning_e_APIs.ipynb)
+* [MLOPs: Deploy da API de ML no Google Compute Engine, App Engine e Cloud Run com Container. Atualização com Github Actions.](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_MLOps_Deploy_de_Modelos.ipynb)
 
 
 <h3><font color=orange>VALIDAÇÃO</font></h3>
