@@ -23,7 +23,7 @@ Notas de aulas do Programa Desenvolve na trilha de Dados. A formação é compos
 </ul>
 
 
-A seguir seguem os repositórios do portfólio organizados por temas:
+A seguir seguem os repositórios do portfólio organizados por temas (EM CONSTRUÇÃO):
 
 # DATA SCIENCE
 
