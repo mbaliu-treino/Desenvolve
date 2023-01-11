@@ -89,9 +89,10 @@ Um modelo de ML é um algorítmo, já treinado com dados, preparado para realiza
 
 * [Aprendizagem baseada em Regras Humanas: o conhecimento em regras simples para classificação](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_ML_Human_based_Model.ipynb)
 
-<!---
+
 <h4><font color=orange>CLASSIFICAÇÃO</font></h4>
---->
+
+* [Classificação Multilabel: conhecendo algorítmos de Relevância Binária, em Cadeia e KNN adaptado (scikit-learn e scikit-multilearn)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_ML_Classificao_Multilabel_de_Textos.ipynb)
 
 <h4><font color=orange>REGRESSÃO</font></h4>
 
