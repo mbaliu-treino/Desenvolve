@@ -150,3 +150,4 @@ A Visão Computacional é uma área de estudo da inteligência artificial destin
 O método Ágil é uma metodologia de gestão de projetos que surge como uma alternativa método clássico Waterfall.
 
 * [Scrum: Manifesto Ágil, iniciação, planejamento, execução, revisão, retrospectiva e encerramento de projetos com Agile](https://docs.google.com/document/d/1tk6kFtA6e541CE8vsxKpE_PiDtGx0nSyj1iSPYpqP0I/edit?usp=sharing)
+* Lean Kanban: gestão do fluxo de trabalho
