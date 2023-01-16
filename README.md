@@ -92,7 +92,9 @@ Um modelo de ML é um algorítmo, já treinado com dados, preparado para realiza
 
 <h4><font color=orange>CLASSIFICAÇÃO</font></h4>
 
+* [Detecção de Fraudes: resolvendo um problema com modelos de classificação](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_ML_Deteccao_de_Fraude_Pipeline_de_ML.ipynb)
 * [Classificação Multilabel: conhecendo algorítmos de Relevância Binária, em Cadeia e KNN adaptado (scikit-learn e scikit-multilearn)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_ML_Classificao_Multilabel_de_Textos.ipynb)
+
 
 <h4><font color=orange>REGRESSÃO</font></h4>
 
@@ -115,7 +117,9 @@ A etapa de deploy é o momento de transformação do modelo de desenvolvimento p
 
 <h3><font color=orange>APLICAÇÕES E SOLUÇÕES</font></h3>
 
+* Etapas do Projeto de Machine Learning
 * [Sistema de Recomendação: eloboração de algorítmo de KNN para recomendação baseada em filtragem colaborativa](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_Sistema_de_Recomendacao_KNN.ipynb)
+
 
 
 ## <font color=orange>DEEP LEARNING</font></h2>
