@@ -94,6 +94,7 @@ Um modelo de ML é um algorítmo, já treinado com dados, preparado para realiza
 
 * [Detecção de Fraudes: resolvendo um problema com modelos de classificação](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_ML_Deteccao_de_Fraude_Pipeline_de_ML.ipynb)
 * [Classificação Multilabel: conhecendo algorítmos de Relevância Binária, em Cadeia e KNN adaptado (scikit-learn e scikit-multilearn)](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_ML_Classificao_Multilabel_de_Textos.ipynb)
+* [PySpark: Modelos de Classificação, Técnicas de Validação e Tunning](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_ML_Spark_Modelo_de_Classifica%C3%A7%C3%A3o.ipynb)
 
 
 <h4><font color=orange>REGRESSÃO</font></h4>
