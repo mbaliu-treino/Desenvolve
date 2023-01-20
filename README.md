@@ -103,6 +103,10 @@ Um modelo de ML é um algorítmo, já treinado com dados, preparado para realiza
 * Regressão Linear: técnicas avançadas de modelagem (transformações)
 
 
+<h4><font color=orange>NÃO-SUPERVISIONADOS</font></h4>
+
+* [PCA: Fundamentos da Análise Fatorial com Componentes Principais e elaboração de um Rankings para os distritos de São Paulo](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_ML_PCA_ranking.ipynb)
+
 <h4><font color=orange>DEPLOY</font></h3>
 
 A etapa de deploy é o momento de transformação do modelo de desenvolvimento para o modelo de operação. Então o foco deixa de ser a exploração invetigativa e passa a ser a disponibilização do modelo por outros usuários. Este campo, pela relação com a cultura DevOps, chama-se de MLOps.
