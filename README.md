@@ -82,8 +82,12 @@ Um modelo de ML é um algorítmo, já treinado com dados, preparado para realiza
 
 <!---
 <h4><font color=orange>ENTENDIMENTO DOS DADOS (EDA)</font></h3>
-<h4><font color=orange>PRE-PROCESSAMENTO - TRANSFORMAÇÕES</font></h3>
 --->
+
+<h4><font color=orange>PRE-PROCESSAMENTO - TRANSFORMAÇÕES</font></h3>
+
+* [Fundamentos sobre o problema da Multicolinearidade](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_STAT_Multicolinearidade.ipynb)
+
 
 <h3><font color=orange>MODELOS DE MACHINE LEARNING</font></h3>
 
