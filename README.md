@@ -127,7 +127,9 @@ A etapa de deploy é o momento de transformação do modelo de desenvolvimento p
 <h3><font color=orange>APLICAÇÕES E SOLUÇÕES</font></h3>
 
 * Etapas do Projeto de Machine Learning
+* [Fullstack Data Scientist: arquitetura de uma solução DS da infra até o deploy [Docker, Airflow, MinIO, Scikit-learn, Streamlit]](https://github.com/mbaliu-treino/Bootcamp-Challenge/blob/main/LEARN_DS_Fullstack_STACK_Bootcamp.ipynb)
 * [Sistema de Recomendação: eloboração de algorítmo de KNN para recomendação baseada em filtragem colaborativa](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_Sistema_de_Recomendacao_KNN.ipynb)
+
 
 
 
