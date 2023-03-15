@@ -160,6 +160,13 @@ A Visão Computacional é uma área de estudo da inteligência artificial destin
 * [Visão computacionala para análise e classificação de faces: OpenCV](https://github.com/mbaliu-treino/Desenvolve/blob/main/LEARN_C_DS_VC_Classificacao_de_faces.ipynb)
 
 
+## <font color=orange>URBAN DATA SCIENCE</font></h2>
+
+* Análise de dados geográficos com Python: dados do Censo do IBGE
+* Análise de registros de queimadas na Amazônia
+* Análise de Adequação: obtenção de dados urbanos através de API e cálculo de rotas através de grafos.
+
+
 # METODOLOGIA ÁGIL
 
 O método Ágil é uma metodologia de gestão de projetos que surge como uma alternativa método clássico Waterfall.
