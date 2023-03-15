@@ -162,7 +162,7 @@ A Visão Computacional é uma área de estudo da inteligência artificial destin
 
 ## <font color=orange>URBAN DATA SCIENCE</font></h2>
 
-* Análise de dados geográficos com Python: dados do Censo do IBGE
+* [Análise de dados geográficos com Python: dados do Censo do IBGE (GeoPandas e Folium)](https://www.kaggle.com/code/marcelobaliu/geo-c-introducao-a-analise-de-dados-geograficos)
 * Análise de registros de queimadas na Amazônia
 * Análise de Adequação: obtenção de dados urbanos através de API e cálculo de rotas através de grafos.
 
